@@ -1,5 +1,5 @@
 package com.fibonaccigit;
-
+ 
 public class FibonacciGit {
 	public static long fibo (int n){
 		long a = 0;
@@ -15,7 +15,6 @@ public class FibonacciGit {
 	       for (int i = 0; i <= 30; i++) {
 	           System.out.print("F(" + i + "):" + FibonacciGit.fibo(i) + "\t");
 	           System.out.print("oio");
-	           System.out.print("iae");
 	           System.out.print("olá");
 	       }
 
