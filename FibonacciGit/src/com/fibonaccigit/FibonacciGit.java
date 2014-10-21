@@ -11,15 +11,12 @@ public class FibonacciGit {
 		return a;
 		
 	}public static void main(String[] args) {
-
+		 // teste do programa. Imprime os 30 primeiros termos
 	       for (int i = 0; i <= 30; i++) {
-	       	 if(i>=0)
-			 System.out.print("F(" + i + "):" + FibonacciGit.fibo(i) + "\t");
-			 
-	       }	 
+	           System.out.print("F(" + i + "):" + FibonacciGit.fibo(i) + "\t");
 	           System.out.print("oio");
-	           System.out.print("teste");
-	     
+	           System.out.print("oio");
+	       }
 
 		}
 
